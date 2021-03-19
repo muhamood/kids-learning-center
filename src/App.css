@@ -1,5 +1,10 @@
 .App {
   text-align: center;
+  background-image: url("./images/pexels-olia-danilevich-5088185.jpg");
+  height:100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
 }
 
 .App-logo {
