@@ -6,9 +6,9 @@ function App() {
   return (
     <div className="App">
      <Navbar/>
-     <h1>KIDS CENTER</h1>
     </div>
   );
 }
 
 export default App;
+
